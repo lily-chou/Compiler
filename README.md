@@ -1,21 +1,23 @@
 # Compiler
 Implement a subset of LISP.
-1. Syntax Validation	
-  > Print “syntax error” when parsing invalid syntax
+
+1. Syntax Validation
+    >Print “syntax error” when parsing invalid syntax
+  
 2. Print	
->  Print number
+    >  Print number
 3. Numerical Operations
-> numerical operations such as +, -, *, /
+    > numerical operations such as +, -, *, /
 4. Logical Operations	
-> logical operationssuch as and, or, not
+    > logical operationssuch as and, or, not
 5. if Expression
-> if else 
+    > if else 
 6. Variable Definition
->define a variable
+    >define a variable
 7. Function	
-> declare and call an anonymous function
+    > declare and call an anonymous function
 8. Named Function
->declare and call a named function
+    >declare and call a named function
 
 
 ## **Exeuction Order**
